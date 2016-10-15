@@ -5,7 +5,7 @@
   <groupId>GitHubWordAround</groupId>
   <artifactId>GitHubWordAround</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <description>A real time project to demonstrate various aspects of project development management.</description>
+  <description>(modification- hotfix branch - 1)A real time project to demonstrate various aspects of project development management.</description>
 
   <scm>
     <url>https://github.com/nikhilGitrepo/GitHubWordAround.git</url>
